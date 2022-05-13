@@ -1,2 +1,2 @@
 # Lasles-VPN
-Simple HTML and CSS project
+Simple HTML, CSS and JavaScript project
