@@ -741,3 +741,18 @@ box-shadow: 18px 147px 186px -8px rgba(0,0,0,0.24)
     transition: 0.3s;
     cursor: pointer;
 }
+::-webkit-scrollbar {
+    width: 12px;
+  }
+  ::-webkit-scrollbar-track {
+  background-color: #F5F5F5;
+    border-radius:2px
+}
+
+  ::-webkit-scrollbar-thumb {
+    background: #F53855; 
+    border-radius: 2px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #F53855; 
+  }
