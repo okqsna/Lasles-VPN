@@ -153,9 +153,7 @@ body{
     flex-direction: row;
     margin-top:100px;
     -webkit-box-shadow: 18px 147px 186px -8px rgba(0,0,0,0.24);
--moz-box-shadow: 18px 147px 186px -8px rgba(0,0,0,0.24);
-box-shadow: 18px 147px 186px -8px rgba(0,0,0,0.24)
-
+    -moz-box-shadow: 18px 147px 186px -8px rgba(0,0,0,0.24);box-shadow: 18px 147px 186px -8px rgba(0,0,0,0.24)
 }
 .users__btn, .location__btn{
     display: flex;
@@ -745,10 +743,9 @@ box-shadow: 18px 147px 186px -8px rgba(0,0,0,0.24)
     width: 12px;
   }
   ::-webkit-scrollbar-track {
-  background-color: #F5F5F5;
-    border-radius:2px
+  background-color: #FFFFF;
+  border-radius:2px
 }
-
   ::-webkit-scrollbar-thumb {
     background: #F53855; 
     border-radius: 2px;
